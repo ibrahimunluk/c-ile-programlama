@@ -1,4 +1,7 @@
 #include <stdio.h>
 main(){
-printf("Merhaba dünya...");
+char ad[50];
+printf("Lütfen Adınızı ve Soyadınızı yazın : ");
+scanf("%s",ad);
+printf("\n\nMerhaba %s...\n\n\n\n",ad);
 }
