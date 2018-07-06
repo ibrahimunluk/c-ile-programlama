@@ -8,4 +8,6 @@ scanf("%s",ad);
 scanf("%s",ikinciad);
 scanf("%s",soyad);
 printf("\n\nMerhaba %s %s %s...\n\n\n\n",ad,ikinciad,soyad);
+printf("\n\nMerhaba Dünya...\n\n\n\n");
+
 }
